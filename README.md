@@ -21,7 +21,7 @@
     |/                \|
     "                  "
     
-Various information compiled for EE 172 taught by [Dr. Raymond Kwok](https://www.sjsu.edu/people/raymond.kwok/) at SJSU.
+Various information compiled for EE 172 taught by [Dr. Raymond Kwok](https://www.linkedin.com/in/ray-kwok-60bb36) at [SJSU](https://www.sjsu.edu/people/raymond.kwok/).
 
 ## Greek Alphabet
 
